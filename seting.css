@@ -2,11 +2,12 @@
 .seting{
     grid-template-columns:repeat(auto-fill,minmax(300px,1fr));
     margin-left: 20px;
+     background-color: #a98ed530;
     margin-right: 20px;}
 /*start site*/
 
 .seting .site{
-    background-color: #978390bf;
+    background-color: #bbcbc4bf;
 }
 .seting .site p{
     color: 080c0bbd;
@@ -89,7 +90,7 @@ input{
 }
 /*start social*/
 .social{
-    background-color: #735634c4;
+    background-color: #d1ccc6c4;
 }
 .social input{
     height: 35px;
@@ -117,7 +118,7 @@ input{
 
     /*start widget*/
 .Widgets{
-        background-color: #c9cd9d82;
+        background-color: #96869900;
 }
 .Widgets .control label{
     padding-left: 15px;
